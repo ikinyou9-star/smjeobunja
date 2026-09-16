@@ -109,6 +109,10 @@
       .container { padding: 32px 20px 25px; }
       h1 { font-size: 25px; }
     }
+    .site-header,
+.site-title {
+  display: none !important;
+}
   </style>
 </head>
 <body>
