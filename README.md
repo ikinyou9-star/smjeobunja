@@ -1,6 +1,5 @@
 # smjeobunja
 나도 저분자 효모 펩타이드 임상시험에 참여할 수 있을까?
-<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
